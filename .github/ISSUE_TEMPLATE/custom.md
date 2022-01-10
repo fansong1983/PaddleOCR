@@ -1,8 +1,8 @@
 ---
-name: Issue template
-about: Issue template for code error.
-title: ''
-labels: ''
+name: Translate OCR技术导论.ipynb into English
+about: 文档修改与Notebook英文翻译
+title: 'Translate OCR技术导论.ipynb into English'
+labels: 'translate notebook'
 assignees: ''
 
 ---
